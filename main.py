@@ -8,7 +8,7 @@ app = FastAPI()
 
 class Tag(StrEnum):
     SPECIAL_METHODS = "special methods"
-    COMMON_METHODS = "common methods"
+    COMMON_METHODS = "common mehods"
 
 
 class EduLevel(StrEnum):
