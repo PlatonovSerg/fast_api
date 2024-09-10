@@ -1,5 +1,4 @@
-from fastapi import APIRouter, Body
-
+from fastapi import APIRouter
 from app.schemas.schemas import Person
 
 router = APIRouter()
